@@ -13,4 +13,4 @@ Channel A sync is implemented. Channel B sync is not implemented, but this featu
 
 A thermistor circuit is used to provede a temperature compensated reference voltage. Typically, this voltage is used as a reference for the DAC that outputs the voltage that controls the frequency of the oscillators.
 
-This was tested on a Chroma Polaris. It should work in all of the synthesizers listed above, but it hasn't been tested. 
+This was tested on a Chroma Polaris. It should work in all of the other synthesizers listed above, but it hasn't been tested. 
