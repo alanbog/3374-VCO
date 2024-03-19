@@ -1,0 +1,14 @@
+These are instructions to turn the PCB assemblies into the final product.
+
+1.  If the PCBAs are panelized, depanelize them, and sand any remaining mouse bites or rough edges.
+
+2.  Solder the Flip-Pins. I recommend using 20-pin Flip-Pins. Two sets of 20-pin Flip-Pins can be used for every two boards.
+    Insert the Flip-Pins in the bottom of the board. Make sure that the plastic aligner does not overlap the thermistor (U7). 
+    Follow instructions here:
+    http://oshchip.org/products/Soldering_Flip-Pins.html
+    Archived: https://web.archive.org/web/20231003143201/http://oshchip.org/products/Soldering_Flip-Pins.html
+    I found that it was best to use a flux pen and thin solder (0.015" diameter).
+
+3.  Clean flux off of the boards. I used isopropyl alcohol and an ESD-safe brush. 
+
+4.  Add a blob of MG Chemicals 8349TFM that completely encapsulates U7, Q14, and Q15. These components are on the bottom of the board opposite from the pin 1 marking. Let cure for at least 16 hours. 
