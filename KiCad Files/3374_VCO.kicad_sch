@@ -1,256 +1,586 @@
-(kicad_sch (version 20230121) (generator eeschema)
-
-  (uuid 331432f7-2458-4bbc-aee9-1ca040c8d6f7)
-
-  (paper "A4")
-
-  (title_block
-    (title "3374 VCO")
-    (date "2024-02-13")
-    (rev "0")
-    (company "Alan Boguslawski")
-  )
-
-  (lib_symbols
-  )
-
-
-  (polyline (pts (xy 150.495 115.57) (xy 150.495 118.11))
-    (stroke (width 0) (type default))
-    (uuid 0f4d8406-366b-4be1-816e-13c6a664329b)
-  )
-  (polyline (pts (xy 127 48.26) (xy 154.94 48.26))
-    (stroke (width 0) (type default))
-    (uuid 1fd72d88-2039-4788-b1a1-0d3a34477236)
-  )
-  (polyline (pts (xy 123.19 114.3) (xy 125.73 114.3))
-    (stroke (width 0) (type default))
-    (uuid 231dde8a-e0ac-491a-9e16-11b377c3c12a)
-  )
-  (polyline (pts (xy 127 46.99) (xy 127 49.53))
-    (stroke (width 0) (type default))
-    (uuid 5c72b748-96fc-44c5-bf09-5462d36fbf8e)
-  )
-  (polyline (pts (xy 123.19 50.8) (xy 125.73 50.8))
-    (stroke (width 0) (type default))
-    (uuid 62144ed7-b0aa-489b-a030-f0d334b64079)
-  )
-  (polyline (pts (xy 131.445 115.57) (xy 131.445 118.11))
-    (stroke (width 0) (type default))
-    (uuid 67a971da-e321-4d9f-888f-d70f46b03c7a)
-  )
-  (polyline (pts (xy 157.48 57.15) (xy 157.48 63.5))
-    (stroke (width 0) (type default))
-    (uuid 6cb544a5-cf7a-4dbf-844d-73c1adcc15fa)
-  )
-  (polyline (pts (xy 156.21 57.15) (xy 158.75 57.15))
-    (stroke (width 0) (type default))
-    (uuid 7afb675c-287c-4dad-a049-cc4d05bfbfbf)
-  )
-  (polyline (pts (xy 154.94 46.99) (xy 154.94 49.53))
-    (stroke (width 0) (type default))
-    (uuid 96b0ab7a-90ff-4ac5-9239-638a2d872b01)
-  )
-  (polyline (pts (xy 124.46 50.8) (xy 124.46 114.3))
-    (stroke (width 0) (type default))
-    (uuid 9c3449b0-7c71-4145-9183-f5e26e877960)
-  )
-  (polyline (pts (xy 156.21 63.5) (xy 158.75 63.5))
-    (stroke (width 0) (type default))
-    (uuid ab179b53-8fde-4c97-af59-5f1faa483ca9)
-  )
-  (polyline (pts (xy 131.445 116.84) (xy 150.495 116.84))
-    (stroke (width 0) (type default))
-    (uuid b7aac3d0-68b8-40a5-ae4e-3a2f8ce36b6b)
-  )
-
-  (circle (center 150.495 95.25) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 0bcfd9a5-3022-4c61-8e20-c1bebcc95f0d)
-  )
-  (rectangle (start 127 50.8) (end 154.94 114.3)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 1d69d62c-4295-4f71-8f7e-e161d747fea1)
-  )
-  (circle (center 150.495 57.15) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 21604b0b-7128-46f0-9fbe-c19e68f794f0)
-  )
-  (circle (center 150.495 101.6) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 45cb8f4d-c2e5-4cc1-9736-44df8c43ce89)
-  )
-  (circle (center 150.495 63.5) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 53772f41-9b90-4114-bfc1-91e3394ac50b)
-  )
-  (circle (center 131.445 101.6) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 57345156-2ee4-4366-b38a-b8a2ad35cd54)
-  )
-  (circle (center 131.445 69.85) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 60f4fe7b-05a7-4ff5-b40f-97da0e241ffe)
-  )
-  (circle (center 131.445 95.25) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 73cd7a86-d966-4d25-a0af-7ab33356eaa8)
-  )
-  (circle (center 131.445 76.2) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 7eeacf46-aca2-4d58-b722-5478e2605226)
-  )
-  (circle (center 131.445 63.5) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid a513a061-b3b3-47f9-a7ae-db527e1ef3d0)
-  )
-  (circle (center 150.495 82.55) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid c65de934-7bc7-410e-ae0d-4d0c856ce67c)
-  )
-  (circle (center 150.495 107.95) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid dd929f33-c952-4cb1-9ed4-d8005151a711)
-  )
-  (circle (center 131.445 107.95) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid e1c62425-6ed6-4a9e-9d01-35ac58c6e423)
-  )
-  (circle (center 150.495 69.85) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid e6e0056d-a037-4de3-a46f-d922456c3bd7)
-  )
-  (circle (center 131.445 82.55) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid ea750fc0-b763-46ae-8fc6-37be08b32e03)
-  )
-  (circle (center 131.445 88.9) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid eeb99471-e059-4532-a42b-6c2f0e611890)
-  )
-  (circle (center 150.495 88.9) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid ef0e849c-a628-40f1-87c8-75f84b5f1ce1)
-  )
-  (circle (center 150.495 76.2) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid ef77fbf8-c164-4493-93d4-1ee3464e859d)
-  )
-  (circle (center 131.445 57.15) (radius 1.27)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid f2f5b0c8-4072-4dd8-8ebe-af799833aa4d)
-  )
-
-  (text "INDEX:" (at 27.94 151.13 0)
-    (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
-    (uuid 1f8af7a5-fcee-4b79-a784-1fb9d7a0d01a)
-  )
-  (text "0.3\" (7.62 mm)" (at 128.27 121.92 0)
-    (effects (font (size 2 2)) (justify left bottom))
-    (uuid 256ebeed-2fc6-42c7-a6dd-4f188aefb6e7)
-  )
-  (text "All resistors ±1%, 0.05W unless otherwise specified. \nAll capacitors ±10%, 25V unless otherwise specified. "
-    (at 177.165 165.1 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 635ef2f2-bff0-47ee-a9c4-94c157b71bd8)
-  )
-  (text "0.44\" (11.176 mm)" (at 125.73 45.72 0)
-    (effects (font (size 2 2)) (justify left bottom))
-    (uuid 73d511be-4945-481a-b0d5-ae03d749845e)
-  )
-  (text "3374 VCO" (at 109.22 35.56 0)
-    (effects (font (size 8 8) (thickness 0.508) bold) (justify left bottom))
-    (uuid 8272c23a-0878-4b6a-90db-9e720db7e829)
-  )
-  (text "1\" (25.4 mm)" (at 121.92 91.44 90)
-    (effects (font (size 2 2)) (justify left bottom))
-    (uuid a2567e66-a805-4d3d-9e3d-e045fe544b06)
-  )
-  (text "0.1\" (2.54 mm)" (at 160.02 62.23 0)
-    (effects (font (size 2 2)) (justify left bottom))
-    (uuid bdc7c94f-24cd-4477-a098-8f16165f6cf2)
-  )
-
-  (sheet (at 27.94 176.53) (size 33.02 3.81)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 0bc40f39-bfb3-475f-a820-930bfa455a72)
-    (property "Sheetname" "VCO B" (at 27.94 175.8184 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "VCO_B.kicad_sch" (at 27.94 180.9246 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (property "Page" "Page 4" (at 44.45 177.8 0)
-      (effects (font (size 1.27 1.27)) (justify top))
-    )
-    (instances
-      (project "3374_VCO"
-        (path "/331432f7-2458-4bbc-aee9-1ca040c8d6f7" (page "4"))
-      )
-    )
-  )
-
-  (sheet (at 27.94 166.37) (size 33.02 3.81)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 6064bcf4-7c44-4e5f-9666-d16283281a5a)
-    (property "Sheetname" "VCO A" (at 27.94 165.6584 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "VCO_A.kicad_sch" (at 27.94 170.7646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (property "Page" "Page 3" (at 44.45 167.64 0)
-      (effects (font (size 1.27 1.27)) (justify top))
-    )
-    (instances
-      (project "3374_VCO"
-        (path "/331432f7-2458-4bbc-aee9-1ca040c8d6f7" (page "3"))
-      )
-    )
-  )
-
-  (sheet (at 27.94 154.94) (size 33.02 3.81)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid a458744d-7128-4a3f-bfdf-3337e27dfdae)
-    (property "Sheetname" "IO-Power-Tempco" (at 27.94 154.2284 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "IO-Power-Tempco.kicad_sch" (at 27.94 160.02 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (property "Page" "Page 2" (at 44.45 156.21 0)
-      (effects (font (size 1.27 1.27)) (justify top))
-    )
-    (instances
-      (project "3374_VCO"
-        (path "/331432f7-2458-4bbc-aee9-1ca040c8d6f7" (page "2"))
-      )
-    )
-  )
-
-  (sheet_instances
-    (path "/" (page "1"))
-  )
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "331432f7-2458-4bbc-aee9-1ca040c8d6f7")
+	(paper "A4")
+	(title_block
+		(title "3374 VCO")
+		(date "2024-12-12")
+		(rev "1")
+		(company "Alan Boguslawski")
+	)
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 150.495 115.57) (xy 150.495 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f4d8406-366b-4be1-816e-13c6a664329b")
+	)
+	(polyline
+		(pts
+			(xy 127 48.26) (xy 154.94 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fd72d88-2039-4788-b1a1-0d3a34477236")
+	)
+	(polyline
+		(pts
+			(xy 123.19 114.3) (xy 125.73 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "231dde8a-e0ac-491a-9e16-11b377c3c12a")
+	)
+	(polyline
+		(pts
+			(xy 127 46.99) (xy 127 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c72b748-96fc-44c5-bf09-5462d36fbf8e")
+	)
+	(polyline
+		(pts
+			(xy 123.19 50.8) (xy 125.73 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62144ed7-b0aa-489b-a030-f0d334b64079")
+	)
+	(polyline
+		(pts
+			(xy 131.445 115.57) (xy 131.445 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67a971da-e321-4d9f-888f-d70f46b03c7a")
+	)
+	(polyline
+		(pts
+			(xy 157.48 57.15) (xy 157.48 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cb544a5-cf7a-4dbf-844d-73c1adcc15fa")
+	)
+	(polyline
+		(pts
+			(xy 156.21 57.15) (xy 158.75 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7afb675c-287c-4dad-a049-cc4d05bfbfbf")
+	)
+	(polyline
+		(pts
+			(xy 154.94 46.99) (xy 154.94 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96b0ab7a-90ff-4ac5-9239-638a2d872b01")
+	)
+	(polyline
+		(pts
+			(xy 124.46 50.8) (xy 124.46 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c3449b0-7c71-4145-9183-f5e26e877960")
+	)
+	(polyline
+		(pts
+			(xy 156.21 63.5) (xy 158.75 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab179b53-8fde-4c97-af59-5f1faa483ca9")
+	)
+	(polyline
+		(pts
+			(xy 131.445 116.84) (xy 150.495 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7aac3d0-68b8-40a5-ae4e-3a2f8ce36b6b")
+	)
+	(circle
+		(center 150.495 95.25)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0bcfd9a5-3022-4c61-8e20-c1bebcc95f0d)
+	)
+	(rectangle
+		(start 127 50.8)
+		(end 154.94 114.3)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1d69d62c-4295-4f71-8f7e-e161d747fea1)
+	)
+	(circle
+		(center 150.495 57.15)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 21604b0b-7128-46f0-9fbe-c19e68f794f0)
+	)
+	(circle
+		(center 150.495 101.6)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 45cb8f4d-c2e5-4cc1-9736-44df8c43ce89)
+	)
+	(circle
+		(center 150.495 63.5)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 53772f41-9b90-4114-bfc1-91e3394ac50b)
+	)
+	(circle
+		(center 131.445 101.6)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 57345156-2ee4-4366-b38a-b8a2ad35cd54)
+	)
+	(circle
+		(center 131.445 69.85)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 60f4fe7b-05a7-4ff5-b40f-97da0e241ffe)
+	)
+	(circle
+		(center 131.445 95.25)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 73cd7a86-d966-4d25-a0af-7ab33356eaa8)
+	)
+	(circle
+		(center 131.445 76.2)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7eeacf46-aca2-4d58-b722-5478e2605226)
+	)
+	(circle
+		(center 131.445 63.5)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a513a061-b3b3-47f9-a7ae-db527e1ef3d0)
+	)
+	(circle
+		(center 150.495 82.55)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c65de934-7bc7-410e-ae0d-4d0c856ce67c)
+	)
+	(circle
+		(center 150.495 107.95)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid dd929f33-c952-4cb1-9ed4-d8005151a711)
+	)
+	(circle
+		(center 131.445 107.95)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e1c62425-6ed6-4a9e-9d01-35ac58c6e423)
+	)
+	(circle
+		(center 150.495 69.85)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e6e0056d-a037-4de3-a46f-d922456c3bd7)
+	)
+	(circle
+		(center 131.445 82.55)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ea750fc0-b763-46ae-8fc6-37be08b32e03)
+	)
+	(circle
+		(center 131.445 88.9)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid eeb99471-e059-4532-a42b-6c2f0e611890)
+	)
+	(circle
+		(center 150.495 88.9)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ef0e849c-a628-40f1-87c8-75f84b5f1ce1)
+	)
+	(circle
+		(center 150.495 76.2)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ef77fbf8-c164-4493-93d4-1ee3464e859d)
+	)
+	(circle
+		(center 131.445 57.15)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f2f5b0c8-4072-4dd8-8ebe-af799833aa4d)
+	)
+	(text "INDEX:"
+		(exclude_from_sim no)
+		(at 27.94 151.13 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "1f8af7a5-fcee-4b79-a784-1fb9d7a0d01a")
+	)
+	(text "0.3\" (7.62 mm)"
+		(exclude_from_sim no)
+		(at 128.27 121.92 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left bottom)
+		)
+		(uuid "256ebeed-2fc6-42c7-a6dd-4f188aefb6e7")
+	)
+	(text "All resistors ±1%, 0.05W unless otherwise specified. \nAll capacitors ±10%, 25V unless otherwise specified. "
+		(exclude_from_sim no)
+		(at 177.165 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "635ef2f2-bff0-47ee-a9c4-94c157b71bd8")
+	)
+	(text "0.44\" (11.176 mm)"
+		(exclude_from_sim no)
+		(at 125.73 45.72 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left bottom)
+		)
+		(uuid "73d511be-4945-481a-b0d5-ae03d749845e")
+	)
+	(text "3374 VCO"
+		(exclude_from_sim no)
+		(at 109.22 35.56 0)
+		(effects
+			(font
+				(size 8 8)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "8272c23a-0878-4b6a-90db-9e720db7e829")
+	)
+	(text "1\" (25.4 mm)"
+		(exclude_from_sim no)
+		(at 121.92 91.44 90)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left bottom)
+		)
+		(uuid "a2567e66-a805-4d3d-9e3d-e045fe544b06")
+	)
+	(text "0.1\" (2.54 mm)"
+		(exclude_from_sim no)
+		(at 160.02 62.23 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left bottom)
+		)
+		(uuid "bdc7c94f-24cd-4477-a098-8f16165f6cf2")
+	)
+	(sheet
+		(at 27.94 176.53)
+		(size 33.02 3.81)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0bc40f39-bfb3-475f-a820-930bfa455a72")
+		(property "Sheetname" "VCO B"
+			(at 27.94 175.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCO_B.kicad_sch"
+			(at 27.94 180.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page" "Page 4"
+			(at 44.45 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify top)
+			)
+		)
+		(instances
+			(project "3374_VCO"
+				(path "/331432f7-2458-4bbc-aee9-1ca040c8d6f7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 166.37)
+		(size 33.02 3.81)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6064bcf4-7c44-4e5f-9666-d16283281a5a")
+		(property "Sheetname" "VCO A"
+			(at 27.94 165.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCO_A.kicad_sch"
+			(at 27.94 170.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page" "Page 3"
+			(at 44.45 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify top)
+			)
+		)
+		(instances
+			(project "3374_VCO"
+				(path "/331432f7-2458-4bbc-aee9-1ca040c8d6f7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 154.94)
+		(size 33.02 3.81)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a458744d-7128-4a3f-bfdf-3337e27dfdae")
+		(property "Sheetname" "IO-Power-Tempco"
+			(at 27.94 154.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IO-Power-Tempco.kicad_sch"
+			(at 27.94 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page" "Page 2"
+			(at 44.45 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify top)
+			)
+		)
+		(instances
+			(project "3374_VCO"
+				(path "/331432f7-2458-4bbc-aee9-1ca040c8d6f7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )

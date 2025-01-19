@@ -1,29 +1,27 @@
-### Footprint positions - created on Thu Feb 15 01:29:09 2024 ###
-### Printed by KiCad version 7.0.7
+### Footprint positions - created on 2024-12-13T00:14:04-0500 ###
+### Printed by KiCad version 8.0.3
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref     Val           Package                                    PosX       PosY       Rot  Side
-C15       0.1u          C_0201_0603Metric                        7.2136    24.9000  180.0000  bottom
-C16       0.1u          C_0201_0603Metric                        3.6830    24.9000  180.0000  bottom
-C17       2.2u          C_0402_1005Metric                        6.9088    20.5852  180.0000  bottom
-C18       100p          C_0201_0603Metric                        3.6576    14.4892   90.0000  bottom
-C19       0.1u          C_0201_0603Metric                        6.2992    14.3876    0.0000  bottom
-C20       0.1u          C_0201_0603Metric                        4.9784    14.3876  180.0000  bottom
+C12       100n          C_0201_0603Metric                        7.6380    24.4348  180.0000  bottom
+C13       2.2u          C_0402_1005Metric                        6.6320    19.7104  180.0000  bottom
+C14       680p          C_0201_0603Metric                        3.6576    12.0880   90.0000  bottom
+C15       100n          C_0201_0603Metric                        6.2992    11.9864    0.0000  bottom
+C16       100n          C_0201_0603Metric                        4.9784    11.9864  180.0000  bottom
 J1        FLIP_PINS     FLIP-PINS-FLOAT-09                       9.3980    11.4300  -90.0000  bottom
 J2        FLIP_PINS     FLIP-PINS-FLOAT-09                       1.7780    11.4300  -90.0000  bottom
-Q8        DMMT3906W     SOT-363_SC-70-6                          6.9380    10.5596   90.0000  bottom
-Q9        DMMT3906W     SOT-363_SC-70-6                          4.2380    10.5596   90.0000  bottom
-Q10       DMMT3906W     SOT-363_SC-70-6                          6.9380     7.5596   90.0000  bottom
-Q11       DMMT3904W     SOT-363_SC-70-6                          4.2380     7.5596   90.0000  bottom
-Q12       DMMT3906W     SOT-363_SC-70-6                          6.9380     4.5596   90.0000  bottom
-Q13       DMMT3904W     SOT-363_SC-70-6                          4.2380     4.5596   90.0000  bottom
-Q14       DMMT3904W     SOT-363_SC-70-6                          6.9380     1.5596   90.0000  bottom
-Q15       DMMT3904W     SOT-363_SC-70-6                          4.2380     1.5596   90.0000  bottom
-R24       10k           R_0201_0603Metric                        6.9596    19.8740    0.0000  bottom
-R25       10k           R_0201_0603Metric                        5.6388    19.8740    0.0000  bottom
-R26       10k           R_0201_0603Metric                        7.3660    14.4892  -90.0000  bottom
-U4        AP7370-50FDC  DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm     7.0880    22.8500   90.0000  bottom
-U5        TLV9032       WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm      4.0880    22.8500   90.0000  bottom
-U6        TL074H        SOT23_DYY_TEX-L                          5.5880    17.1096    0.0000  bottom
+Q6        DMMT3906W     SOT-363_SC-70-6                          6.9380     7.5596   90.0000  bottom
+Q7        DMMT3904W     SOT-363_SC-70-6                          4.2380     7.5596   90.0000  bottom
+Q8        DMMT3906W     SOT-363_SC-70-6                          6.9380     4.5596   90.0000  bottom
+Q9        DMMT3904W     SOT-363_SC-70-6                          4.2380     4.5596   90.0000  bottom
+Q10       DMMT3904W     SOT-363_SC-70-6                          6.9380     1.5596   90.0000  bottom
+Q11       DMMT3904W     SOT-363_SC-70-6                          4.2380     1.5596   90.0000  bottom
+R24       365           R_0201_0603Metric                        6.3880    18.7100    0.0000  bottom
+R25       10k           R_0201_0603Metric                        6.9596    17.4728    0.0000  bottom
+R26       10k           R_0201_0603Metric                        5.6388    17.4728    0.0000  bottom
+R27       3.32k         R_0201_0603Metric                        7.6380    12.1412   90.0000  bottom
+U4        AP7370-50FDC  DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm     7.0880    22.3308   90.0000  bottom
+U5        TLV9032       WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm      4.0880    22.3308   90.0000  bottom
+U6        TL074H        SOT23_DYY_TEX-L                          5.5880    14.7084    0.0000  bottom
 U7        TMP6131DECR   X1SON2_1XP65_TEX-L                       9.0932     0.5334  180.0000  bottom
 ## End
